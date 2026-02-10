@@ -1,0 +1,38 @@
+# Database & Secrets
+.env
+*.sql
+*.log
+credentials.json
+*.key
+
+# PHP / XAMPP / Backend
+/vendor/
+/node_modules/
+composer.lock
+.phpunit.result.cache
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web Specific
+.DS_Store
+Thumbs.db
+/dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+
+*.sql
+node_modules/
+vendor/
+*.sql
+*.png
+*.jpg
+.env
